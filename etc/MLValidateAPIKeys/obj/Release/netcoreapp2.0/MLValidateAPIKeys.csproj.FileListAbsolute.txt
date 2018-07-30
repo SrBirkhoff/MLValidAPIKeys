@@ -1,0 +1,11 @@
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\bin\Release\netcoreapp2.0\MLValidateAPIKeys.deps.json
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\bin\Release\netcoreapp2.0\MLValidateAPIKeys.runtimeconfig.json
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\bin\Release\netcoreapp2.0\MLValidateAPIKeys.runtimeconfig.dev.json
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\bin\Release\netcoreapp2.0\MLValidateAPIKeys.dll
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\bin\Release\netcoreapp2.0\MLValidateAPIKeys.pdb
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.csprojAssemblyReference.cache
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.AssemblyInfoInputs.cache
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.AssemblyInfo.cs
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.dll
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\MLValidateAPIKeys\obj\Release\netcoreapp2.0\MLValidateAPIKeys.pdb

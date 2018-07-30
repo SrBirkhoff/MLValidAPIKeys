@@ -1,0 +1,7 @@
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\obj\Debug\ValidMLKeys.csprojAssemblyReference.cache
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\obj\Debug\ValidMLKeys.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\bin\Debug\ValidMLKeys.exe.config
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\bin\Debug\ValidMLKeys.exe
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\bin\Debug\ValidMLKeys.pdb
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\obj\Debug\ValidMLKeys.exe
+C:\Users\Guilherme Tapparo\source\repos\MLValidateAPIKeys\ValidMLKeys\obj\Debug\ValidMLKeys.pdb
